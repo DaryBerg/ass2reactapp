@@ -1,0 +1,31 @@
+/* EducationSection.css */
+
+.education-section {
+    padding: 20px 0;
+    /* Add more specific styles as needed */
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    /* Add more specific styles as needed */
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 15px;
+    /* Add more specific styles as needed */
+  }
+  
+  #Education {
+    /* Styles for the education content */
+    /* Adjust according to your design */
+  }
+  
+  #Education p {
+    margin-bottom: 10px;
+    /* Add more specific styles as needed */
+  }
+  

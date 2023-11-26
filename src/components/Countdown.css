@@ -1,0 +1,37 @@
+/* Countdown.css */
+
+.countdown-section {
+    text-align: center;
+    margin-top: 20px;
+    /* Add more specific styles as needed */
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 15px;
+    /* Add more specific styles as needed */
+  }
+  
+  .countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    /* Add more specific styles as needed */
+  }
+  
+  .time {
+    margin: 0 5px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    /* Add more specific styles as needed */
+  }
+  
+  .label {
+    margin: 0 5px;
+    color: #666;
+    /* Add more specific styles as needed */
+  }
+  

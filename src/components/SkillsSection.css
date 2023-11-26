@@ -1,0 +1,45 @@
+/* SkillsSection.css */
+
+.skills-section {
+    padding: 40px 0;
+    /* Adjust as needed */
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    /* Adjust as needed */
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+    /* Adjust as needed */
+  }
+  
+  .skill {
+    margin-bottom: 20px;
+    /* Adjust as needed */
+  }
+  
+  .skill-label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+    /* Adjust as needed */
+  }
+  
+  .skill-bar {
+    height: 20px;
+    background-color: #87aaec;
+    border-color: #333;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    width: 0; /* Initial width is 0 */
+    transition: width 1s ease-in-out;
+    margin: 15px;
+    padding: auto;
+    /* Adjust as needed */
+  }
+  

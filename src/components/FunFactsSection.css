@@ -1,0 +1,36 @@
+/* FunFactsSection.css */
+
+.fun-facts-section {
+    padding: 20px 0;
+    /* Add more specific styles as needed */
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    /* Add more specific styles as needed */
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 15px;
+    /* Add more specific styles as needed */
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    /* Add more specific styles as needed */
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    /* Add more specific styles as needed */
+  }
+  

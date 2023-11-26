@@ -1,23 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.css'; // Import your CSS file
+
+import BioSection from './components/BioSection';
+import EducationSection from './components/EducationSection';
+import Countdown from './components/Countdown';
+import CoursesSection from './components/CoursesSection';
+import SkillsSection from './components/SkillsSection';
+import FunFactsSection from './components/FunFactsSection';
+import MessageForm from './components/MessageForm';
+import Slideshow from './components/Slideshow';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        {}
       </header>
+
+      <main>
+        
+        <BioSection />
+        <EducationSection />
+        <Countdown />
+        <CoursesSection />
+        <SkillsSection />
+        <FunFactsSection />
+        <MessageForm />
+        <Slideshow />
+        
+      </main>
+
+      <footer>
+        {}
+      </footer>
     </div>
   );
 }

@@ -1,0 +1,25 @@
+/* MessageForm.css */
+
+#messageForm {
+    /* Add styles for the message form container */
+    /* Adjust according to your design */
+  }
+  
+  #messages {
+    /* Add styles for the messages container */
+    /* Adjust according to your design */
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    /* Add more specific styles as needed */
+  }
+  
+  li {
+    margin-bottom: 10px;
+    /* Add more specific styles as needed */
+  }
+  
+  /* Add more specific styles for form inputs, labels, buttons, etc. */
+  
