@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css"; // Import your CSS file
+import "./App.css";
 
 import ToggleMode from "./components/ToggleMode";
 import BioSection from "./components/BioSection";
