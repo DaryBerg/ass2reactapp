@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './Slideshow.css';
-import image1Src from './slideshowImages/gojoslayyy.jpg';
-import image2Src from './slideshowImages/hello_kitty.jpg';
-import image3Src from './slideshowImages/pookie.jpg';
+import image1Src from './slideshowImages/fall.jpg';
+import image2Src from './slideshowImages/lake.webp';
+import image3Src from './slideshowImages/mountain.jpg';
 
 const Slideshow = ({ images, currentImageIndex, setCurrentImageIndex }) => {
   const importedImages = [image1Src, image2Src, image3Src];
